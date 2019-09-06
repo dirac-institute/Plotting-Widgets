@@ -1,8 +1,8 @@
 from collections import OrderedDict
 import ipywidgets as w
 import pandas as pd
-from couchbase.cluster import Cluster, PasswordAuthenticator
-from couchbase.n1ql import N1QLQuery
+#from couchbase.cluster import Cluster, PasswordAuthenticator
+#from couchbase.n1ql import N1QLQuery
 import gzip
 import io
 import os
